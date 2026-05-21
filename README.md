@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Song! 👋
 
-<!--
-**songzhang015/songzhang015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out anytime for any reason :)
 
-Here are some ideas to get you started:
+### Top Played Songs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Song | Plays |
+|---|---|---:|
+| 1 | [See You Again (Tyler, The Creator)](https://www.youtube.com/results?search_query=See+You+Again+Tyler+The+Creator) | 85 |
+| 2 | [Sunflower (Post Malone, Swae Lee)](https://www.youtube.com/results?search_query=Sunflower+Post+Malone+Swae+Lee) | 60 |
+| 3 | [From The Start (Laufey)](https://www.youtube.com/results?search_query=From+The+Start+Laufey) | 46 |
+| 4 | [This Is What Space Feels Like (JVKE)](https://www.youtube.com/results?search_query=This+Is+What+Space+Feels+Like+JVKE) | 46 |
+| 5 | [SWEET / I THOUGHT YOU WANTED TO DANCE (Tyler, The Creator)](https://www.youtube.com/results?search_query=SWEET+I+THOUGHT+YOU+WANTED+TO+DANCE+Tyler+The+Creator) | 45 |
